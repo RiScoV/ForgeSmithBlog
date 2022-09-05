@@ -116,7 +116,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://riscov.github.io/"
-    - label: "Naver Blog"
+    - label: "Naver"
       icon: "fas fa-fw fa-link"
       # url: "https://blog.naver.com/ksw85273"
 
