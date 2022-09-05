@@ -110,9 +110,8 @@ author:
   location         : "Korea, InCheon"
   email            : "ksw85273@naver.com"
   links:
-    - label: "Email"
+    - label: "ksw85273@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "ksw85273@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://riscov.github.io/"
