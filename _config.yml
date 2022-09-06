@@ -110,9 +110,9 @@ author:
   location         : "Korea"
   email            : "ksw85273@naver.com"
   links:
-    - label: "Email"
+    - label: "Cafe"
       icon: "fas fa-fw fa-envelope-square"
-      url: "ksw85273@naver.com"
+      url: "https://cafe.naver.com/forgesmith"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
