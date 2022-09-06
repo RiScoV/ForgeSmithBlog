@@ -111,7 +111,7 @@ author:
   email            : "ksw85273@naver.com"
   links:
     - label: "Cafe"
-      icon: "fa-flag on fa-circle"
+      icon: "fas fa-blog fa-lg"
       url: "https://cafe.naver.com/forgesmith"
     - label: "Website"
       icon: "fas fa-fw fa-link"
