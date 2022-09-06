@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "RisCoV Archive"
-title_separator          : "-/"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "RisCoV"
 description              : "Development & Game"
@@ -110,15 +110,9 @@ author:
   location         : "Korea, InCheon"
   email            : "ksw85273@naver.com"
   links:
-    - label: "ksw85273@naver.com"
+    - label: "GitHub"
       icon: "fas fa-fw fa-envelope-square"
       # url: "https://riscov.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://riscov.github.io/"
-    - label: "Naver"
-      icon: "fas fa-fw fa-link"
-      # url: "https://blog.naver.com/ksw85273"
 
 # Site Footer
 footer:
