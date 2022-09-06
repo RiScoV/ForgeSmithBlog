@@ -104,53 +104,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "RisCov"
+  name             : "Sunwoo Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Game Development & Study"
-  location         : "Korea"
-  email            : "ksw85273@naver.com"
+  bio              : "**게임 개발**<br>**유니티 연구**"
+  location         : "Republic of Korea"
+  email            : #
   links:
-    - label: "Cafe"
-      icon: "fas fa-blog fa-lg"
-      url: "https://cafe.naver.com/forgesmith"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:ksw85273@naver.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://github.com/"
+    - label: "Cafe"
+      icon: "fas fa-blog fa-lg"
+      url: "https://cafe.naver.com/forgesmith"
 
 # Reading Files
 include:
