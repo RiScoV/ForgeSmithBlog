@@ -110,20 +110,32 @@ author:
   location         : "Republic of Korea"
   email            : #
   links:
+     - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ksw85273@naver.com"
+     - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/RiScoV"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ksw85273@naver.com
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Cafe"
       icon: "fas fa-blog fa-lg"
       url: "https://cafe.naver.com/forgesmith"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/06.25ash"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    # label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
 
 # Reading Files
 include:
