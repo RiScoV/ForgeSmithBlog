@@ -108,12 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**게임 개발**<br>**유니티 연구**"
   location         : "Republic of Korea"
-  email            : #
   links:
-     - label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ksw85273@naver.com"
-     - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RiScoV"
 
